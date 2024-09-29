@@ -109,7 +109,7 @@ export default {
   async fetch(request, env, ctx) {
     try {
       const {
-        PROXY_HOSTNAME = "z-lib.yt",
+        PROXY_HOSTNAME = "zh.z-lib.gs",
         PROXY_PROTOCOL = "https",
         PATHNAME_REGEX,
         UA_WHITELIST_REGEX,
