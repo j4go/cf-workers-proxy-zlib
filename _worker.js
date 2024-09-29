@@ -5,7 +5,7 @@ const upstream = 'zh.z-lib.gs'
 const upstream_path = '/'
 
 // 镜像站是否有手机访问专用网址，没有则填一样的.
-const upstream_mobile = 'zh.1lib.education'
+const upstream_mobile = 'zh.z-lib.gs'
 
 // 屏蔽国家和地区.
 const blocked_region = ['KP', 'SY', 'PK', 'CU']
